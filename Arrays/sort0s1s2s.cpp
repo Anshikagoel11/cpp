@@ -9,6 +9,11 @@ int main(){
     int arr[100];
     for(int i=0;i<n;i++) cin>>arr[i];
 
+
+
+
+
+.......
     //logic 
     //optimal method 
     //BY DUTCH FLAG ALGO - uses three pointers to assume the occurence of 0,1,2 
