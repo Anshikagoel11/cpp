@@ -13,7 +13,7 @@ int main(){
 
 
 
-.......
+
     //logic 
     //optimal method 
     //BY DUTCH FLAG ALGO - uses three pointers to assume the occurence of 0,1,2 
